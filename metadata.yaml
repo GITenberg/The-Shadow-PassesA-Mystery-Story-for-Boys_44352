@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '3593'
     url: http://www.gutenberg.org/2009/agents/3593
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44352#The-Shadow-PassesA-Mystery-Story-for-Boys
 gutenberg_issued: '2013-12-05'
 gutenberg_type: Text
 identifiers:
