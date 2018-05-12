@@ -1,0 +1,33 @@
+_repo: The-Shadow-PassesA-Mystery-Story-for-Boys_44352
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44352-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Snell, Roy J. (Roy Judson)
+    alias: Snell, Roy Judson
+    birthdate: 1878
+    deathdate: 1959
+    gutenberg_agent_id: '3593'
+    url: http://www.gutenberg.org/2009/agents/3593
+description: ''
+gutenberg_issued: '2013-12-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44352'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Sea stories'
+- !lcsh 'Fishing boats -- Juvenile fiction'
+- !lcsh 'Chinese -- Juvenile fiction'
+- !lcsh 'Fishing -- Juvenile fiction'
+- !lcsh 'Mystery and detective stories'
+title: 'The Shadow Passes
+
+  A Mystery Story for Boys'
+url: http://www.gutenberg.org/ebooks/44352
